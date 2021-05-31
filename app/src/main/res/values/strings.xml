@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Better Contacts</string>
+    <string name="ContactNumber">Number</string>
+    <string name="CallButtonText">CALL</string>
+    <string name="ContactName">Name</string>
+    <string name="sms">SMS</string>
+</resources>
